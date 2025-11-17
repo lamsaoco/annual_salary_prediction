@@ -140,3 +140,9 @@ fly deploy
 ```bash
 fly apps destroy <app-name>
 ```
+
+![alt text](deploy_model_fly.io.png)
+
+![alt text](fastapi_docs_fly.io.png)
+
+![alt text](try_it_out_done.png)
